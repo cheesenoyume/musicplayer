@@ -1,0 +1,65 @@
+{
+  "id": "1736146",
+  "name": "音乐",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1773064",
+      "name": "李子",
+      "font_class": "lizi",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "5924468",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "145741",
+      "name": "音乐_填充",
+      "font_class": "yinletianchong",
+      "unicode": "e6a1",
+      "unicode_decimal": 59041
+    },
+    {
+      "icon_id": "1473537",
+      "name": "音乐",
+      "font_class": "yinyue",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "8692388",
+      "name": "音乐文件",
+      "font_class": "yinlewenjian",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "9138971",
+      "name": "音乐02",
+      "font_class": "yinle",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "12708826",
+      "name": "音乐",
+      "font_class": "yinle1",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "12856707",
+      "name": "歌单",
+      "font_class": "gedan",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
